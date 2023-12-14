@@ -118,3 +118,12 @@ int main() {
 
     return 0;
 }
+
+
+
+/*
+
+  FINALLY I KNOW THAT WHY PEOPLE MAKE JAVA, C# and any other high-level language
+  NEXT TIME, I'LL USE JAVA TO OOP
+
+*/
