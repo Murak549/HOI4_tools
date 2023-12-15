@@ -3,8 +3,6 @@
 # Event Manager
 The Event Manager is a powerful tool that simplifies the creation of events for Hearts of Iron IV mods. With this program, you can efficiently generate event files, manage namespaces, and handle event-specific configurations. 
 
-# GFX Register
-The GFX Register facilitates the creation of `*.gfx` files, streamlining the process of adding images to your Hearts of Iron IV mod. This tool simplifies the registration of graphical assets, making it easier to integrate custom images into your mod. 
 ## Contribution Guidelines
 We welcome contributions from the community! To ensure a smooth and collaborative process, please follow these guidelines when contributing to our project.
 
